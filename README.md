@@ -14,3 +14,4 @@ This project performs sentiment analysis on IMDb movie reviews using machine lea
 1. Clone the repository:
    ```sh
    git clone https://github.com/YOUR-USERNAME/sentiment-analysis-project.git
+![Figure_1](https://github.com/user-attachments/assets/6ad3a660-b875-493b-8ca2-4080e7165739)
